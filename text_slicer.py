@@ -1,0 +1,5 @@
+x=input("jomle ra vared konid:")
+print(x.count("e"))
+print(x[::-1])
+z=x[5:15].replace(" " , "_")
+print(z)
