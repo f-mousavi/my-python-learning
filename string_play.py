@@ -1,0 +1,7 @@
+name = input("اسمت چیه؟ ")
+print(f"طول اسم: {len(name)}")
+print(f"اولین حرف: {name[0]}")
+print(f"آخرین حرف: {name[-1]}")
+print(f"اسم برعکس: {name[::-1]}")
+print(f"اسم بزرگ: {name.upper()}")
+print(f"اسم با عنوان: {name.title()}")
